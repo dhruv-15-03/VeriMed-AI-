@@ -9,5 +9,6 @@ numpy==1.26.4
 scikit-learn==1.4.2
 imbalanced-learn==0.12.0
 joblib==1.4.2
+flask-cors
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 
