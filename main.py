@@ -1,9 +1,12 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import os
 from werkzeug.utils import secure_filename
 from Diabetes_script import predict_from_report
 
 app = Flask(__name__)
+CORS(app)  # Allow all origins
+
 UPLOAD_FOLDER = 'uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
@@ -26,9 +29,9 @@ def upload_file():
             os.remove(filepath)
             return jsonify({'result': result})
         except Exception as e:
-            return jsonify({'error1 ': filepath}), 500
+            return jsonify({'error': str(e)}), 500
 
     return jsonify({'error': 'File upload failed'}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True,port=5001,host='0.0.0.0')
+    app.run(debug=True, port=5001, host='0.0.0.0')

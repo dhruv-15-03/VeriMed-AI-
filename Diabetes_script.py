@@ -82,7 +82,7 @@ def predict_from_report(path):
     thresh = 0.3
     pred = int(prob >= thresh)
     print(f'Probability: {prob:.2f}, Prediction: {"Diabetic" if pred else "Non-Diabetic"}')
-    return "Diabetic" if pred else "Non-Diabetic"
+    return f'Probability: {prob:.2f}, Prediction: {"Diabetic" if pred else "Non-Diabetic"}'
 
 if __name__=='__main__':
     if len(sys.argv)<2:

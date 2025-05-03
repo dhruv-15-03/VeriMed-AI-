@@ -1,14 +1,92 @@
-Patient Name: John Doe
-Age: 52
-Pregnancies: 3
-Glucose: 185 mg/dL
-Blood Pressure: 92 mmHg
-Skin Thickness: 35 mm
-Insulin: 200
-BMI: 38.4
-Diabetes Pedigree Function: 1.45
-Notes:
-Patient reports frequent thirst, fatigue, and blurry vision. Family history 
-reveals both parents had Type 2 Diabetes. The current blood sugar level is 
-significantly elevated and BMI is in the obese category. Recommend immediate 
-lifestyle changes and follow-up with endocrinology.
+LPL - PRODUCTION TEST COLLECTION 
+CENTRE
+SECTOR - 18, BLOCK-E  ROHINI
+DELHI 110085
+Name        
+A/c Status Lab No.    
+Ref By : Gender: Age: 
+Report Status    Reported        Received            Collected        
+P:
+:
+::
+:
+:
+:Final25 Years29/5/2021   1:37:00AM
+29/5/2021   4:27:17PM
+DUMMYG010 Male
+DR. DUMMY  DUMMY   DUMMY
+1/6/2021  2:15:42PM
+Test Name Results Units Bio. Ref. Interval
+GLUCOSE TOLERANCE TEST, ORAL (OGTT)
+(Hexokinase)
+80.00 Glucose Fasting  70 - 100 mg/dL
+79.00 Glucose  2 hrs  Post Load  70.00 - 140.00 mg/dL
+Interpretation
+ -------------------------------------------------------------------------------
+| STATUS                    | FASTING PLASMA GLUCOSE  | POST 75g GLUCOSE LOAD  |
+|                           | IN mg/dL                | mg/dL                  |
+|---------------------------|-------------------------|------------------------|
+| Normal                    | 70-100                  | 70-140                 |
+|---------------------------|-------------------------|------------------------|
+| Impaired fasting glucose  | 101-125                 | 70-140                 |
+|---------------------------|-------------------------|------------------------|
+| Impaired glucose tolerance| 70-100                  | 141-199                |
+|---------------------------|-------------------------|------------------------|
+| Pre-Diabetes              | 101-125                 | 141-199                |
+|---------------------------|-------------------------|------------------------|
+| Diabetes mellitus         | >126                    | >200                   |
+ ------------------------------------------------------------------------------ 
+Note
+The diagnosis of Diabetes requires a fasting plasma glucose of > or = 126 mg/dL or a random / 2 hr post 
+glucose value of > or = 200 mg/dL on at least 2 occasions.
+                    
+ 
+Dr Himangshu Mazumdar
+MD, Biochemistry
+Senior Consultant - Clinical Chemistry 
+& Biochemical Genetics                     
+NRL - Dr Lal PathLabs LtdDr.Kamal Modi
+MD, Biochemistry
+Consultant Biochemist                               
+NRL - Dr Lal PathLabs LtdDr Nimmi Kansal
+MD, Biochemistry
+National Head - Clinical Chemistry & 
+Biochemical Genetics                     
+NRL - Dr Lal PathLabs Ltd
+             -------------------------------End of report --------------------------------
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+*DUMMYG010*
+.
+Page 1 of 2
+LPL - PRODUCTION TEST COLLECTION 
+CENTRE
+SECTOR - 18, BLOCK-E  ROHINI
+DELHI 110085
+Name        
+A/c Status Lab No.    
+Ref By : Gender: Age: 
+Report Status    Reported        Received            Collected        
+P:
+:
+::
+:
+:
+:Final25 Years29/5/2021   1:37:00AM
+29/5/2021   4:27:17PM
+DUMMYG010 Male
+DR. DUMMY  DUMMY   DUMMY
+1/6/2021  2:15:42PM
+Test Name Results Units Bio. Ref. Interval
+IMPORTANT INSTRUCTIONS
+*Test results released pertain to the specimen submitted .*All test results are dependent on the quality of the sample received by the Laboratory . 
+*Laboratory investigations are only a tool to facilitate in arriving at a diagnosis and should be clinically correlated by the Referring Physician .*Sample 
+repeats are accepted on request of Referring Physician within 7 days post reporting .*Report delivery may be delayed due to unforeseen 
+circumstances . Inconvenience is regretted .*Certain tests may require further testing at additional cost for derivation of exact value. Kindly submit 
+request within 72 hours post reporting .*Test results may show interlaboratory variations .*The Courts /Forum at Delhi shall have exclusive 
+jurisdiction in all disputes /claims concerning the test (s) & or results of test (s).*Test results are not valid for medico legal purposes. * Contact 
+customer care Tel No. +91-11-39885050 for all queries related to test results.
+(#) Sample drawn from outside source.
+PatientReportSCSuperPanel.GENERAL_PANEL_ANALYTE_SC (Version: 6)
+*DUMMYG010*
+.
+Page 2 of 2

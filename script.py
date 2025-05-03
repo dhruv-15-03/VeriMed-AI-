@@ -3,7 +3,6 @@ import sys
 import re
 import joblib
 import pandas as pd
-import numpy as np
 import spacy
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
@@ -114,7 +113,7 @@ MODEL_PATH  = 'models/heart_disease_rf_model.pkl'
 
 def predict_from_report(file_path: str):
     d1=predict_from_report1(file_path)
-    text = extract_text(d1)
+    text = extract_text("output.txt")
     metrics = extract_metrics(text)
     defaults = {'Age':50,'Sex':'male','Cholesterol':200,'Systolic BP':120,'Diastolic BP':80,'Heart Rate':70,
                 'Diabetes':'no','Family History':'no','Smoking':'no','Obesity':'no','Alcohol Consumption':'0',
