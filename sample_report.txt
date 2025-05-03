@@ -1,0 +1,11 @@
+Patient Name: John Doe
+Age: 52
+Pregnancies: 3
+Glucose: 185 mg/dL
+Blood Pressure: 92 mmHg
+Skin Thickness: 35 mm
+Insulin: 200
+BMI: 38.4
+Diabetes Pedigree Function: 1.45
+Notes:
+Patient reports frequent thirst, fatigue, and blurry vision. Family history reveals both parents had Type 2 Diabetes. The current blood sugar level is significantly elevated and BMI is in the obese category. Recommend immediate lifestyle changes and follow-up with endocrinology.
